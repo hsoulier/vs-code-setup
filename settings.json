@@ -61,9 +61,6 @@
     "liveServer.settings.donotVerifyTags": true,
     "liveServer.settings.donotShowInfoMsg": true,
     "editor.padding.top": 15,
-    "remote.SSH.remotePlatform": {
-        "vps799842.ovh.net": "linux"
-    },
     "[css]": {
         "editor.defaultFormatter": "HookyQR.beautify"
     },
