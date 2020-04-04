@@ -1,7 +1,7 @@
 {
-    "workbench.colorTheme": "One Dark Pro",
+    "workbench.colorTheme": "Atom One Dark",
     "workbench.startupEditor": "newUntitledFile",
-    "workbench.iconTheme": "material-icon-theme",
+    "workbench.iconTheme": "city-lights-icons-vsc",
     "editor.fontFamily": "\"Fira Code\",Consolas, 'Courier New', monospace",
     "editor.fontLigatures": true,
     "editor.minimap.renderCharacters": false,
@@ -59,4 +59,22 @@
         "editor.defaultFormatter": "HookyQR.beautify"
     },
     "liveServer.settings.donotVerifyTags": true,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "editor.padding.top": 15,
+    "remote.SSH.remotePlatform": {
+        "vps799842.ovh.net": "linux"
+    },
+    "[css]": {
+        "editor.defaultFormatter": "HookyQR.beautify"
+    },
+    "editor.lineHeight": 25,
+    "chaliceIcons.showArrows": true,
+    "editor.renderWhitespace": "none",
+    "window.menuBarVisibility": "toggle",
+    "workbench.activityBar.visible": true,
+    "workbench.statusBar.visible": false,
+    "breadcrumbs.enabled": true,
+    "editor.overviewRulerBorder": false,
+    "editor.renderIndentGuides": false,
+    "editor.renderLineHighlight": "none",
 }
